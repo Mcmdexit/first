@@ -4,5 +4,7 @@ public class Classes {
         // VM1: 8cpu cores, 16GB ram, 1TB SSD (toy exoyn meinei 112 GB Ram)
 
         // allagh
+
+        // allagh 2
     }
 }
